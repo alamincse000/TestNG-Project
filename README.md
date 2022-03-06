@@ -9,14 +9,16 @@ TestNG project practice_1
 
 .Give following command
 
-...
+```
 gradle clean test
-...
+```
 ## Allure report Command:
-...
+```
 allure generate allure-results --clean -o allure-report
+```
+```
 allure serve allure-results
-...
+```
 
 ## Technology:
 Intelij
